@@ -22,7 +22,7 @@ tokenomics, and how the network components fit together.
   details, data availability, and aggregation shard operation.
 - [Unicity Infrastructure: the Aggregation Layer / Unicity Bluepaper](https://github.com/unicitynetwork/aggr-layer-paper)
   ([PDF](https://github.com/unicitynetwork/aggr-layer-paper/releases/download/latest/aggregation-layer.pdf)) -
-  aggregation-layer design, sharded SMT commitments, inclusion and
+  aggregation-layer design, sharded SMT commitments, inclusion, and
   non-inclusion proofs, and the ZK consistency proof model.
 - [Unicity Execution Layer](https://github.com/unicitynetwork/execution-model-tex)
   ([PDF](https://github.com/unicitynetwork/execution-model-tex/releases/download/latest/unicity-execution-layer.pdf)) -
@@ -30,4 +30,4 @@ tokenomics, and how the network components fit together.
   privacy, and formal security proofs.
 - [Unicity: Predicates and Atomic Swaps](https://github.com/unicitynetwork/unicity-predicates-tex)
   ([PDF](https://github.com/unicitynetwork/unicity-predicates-tex/releases/download/latest/unicity-predicates.pdf)) -
-  programmable spending conditions ("smart contracts") and an usage example, trustless atomic swaps.
+  programmable spending conditions ("smart contracts") and a usage example, trustless atomic swaps.
